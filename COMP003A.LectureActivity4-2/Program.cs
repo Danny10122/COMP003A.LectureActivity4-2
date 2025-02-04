@@ -1,4 +1,8 @@
-﻿namespace COMP003A.LectureActivity4_2
+﻿// Author: Daniel Juarez
+// Course: COMP003A
+// Facutly: Jonathan Cruz
+// Purpose: Practice implementing methods in C#
+namespace COMP003A.LectureActivity4_2
 {
     internal class Program
     {
